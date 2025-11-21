@@ -1,0 +1,4 @@
+Label,Proposed,ECORA,MaxRange
+Near (0-50m),0.25,0.22,0.35
+Medium (50-100m),0.35,0.32,0.48
+Far (100-200m),0.45,0.42,0.62
